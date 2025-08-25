@@ -1,0 +1,7 @@
+C:\Users\Professor\Desktop\Podcast\Podcast\bin\Debug\Podcast.exe.config
+C:\Users\Professor\Desktop\Podcast\Podcast\bin\Debug\Podcast.exe
+C:\Users\Professor\Desktop\Podcast\Podcast\bin\Debug\Podcast.pdb
+C:\Users\Professor\Desktop\Podcast\Podcast\obj\Debug\Podcast.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\Podcast\Podcast\obj\Debug\Podcast.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Podcast\Podcast\obj\Debug\Podcast.exe
+C:\Users\Professor\Desktop\Podcast\Podcast\obj\Debug\Podcast.pdb
